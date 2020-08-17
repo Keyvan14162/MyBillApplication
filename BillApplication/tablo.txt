@@ -1,0 +1,4 @@
+Shoe 40 4 
+Jean 100 8 
+CasperExcaliburG900 40000 10 
+Hat 10 5 
