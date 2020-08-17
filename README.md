@@ -1,6 +1,8 @@
 # MyBillApplication
 First you can download BillApplication.rar and execute BillApplication.jar then you can use the app.
 
+Main class is Login.java
+
 When you launch the app there will be 2 sides; AdminLogin and StartShopping
 
 If you select the StartShopping you can choose what you wanna buy and see their prices. Also you can make bill that looks cool.
