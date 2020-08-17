@@ -1,4 +1,4 @@
-# MyBillApplication
+# MyBillApplication with Java Swing
 First you can download BillApplication.rar and execute BillApplication.jar then you can use the app.
 
 Main class is Login.java
